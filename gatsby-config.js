@@ -53,6 +53,11 @@ module.exports = {
           'Developed a data analysis project that explored correlations between player performance and team success in the NFL, using Python to process large datasets and predict key statistics with linear regression.',
         link: '',
       },
+      {
+        name: 'Illine',
+        description: 'In collaboration with a team of five, developed a Swift app to track dining hall queue times using MultipeerConnectivity, earning us 4th place out of 36 teams in the Fall 2023 build@illinois hackathon.',
+        link: '',
+      },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
